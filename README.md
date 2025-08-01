@@ -22,5 +22,4 @@ Personalized diet planning for better lifestyle.
 Empowers users to manage mental and physical health from home.
 Reduces load on healthcare professionals by pre-screening symptoms
 
-<img width="1920" height="1080" alt="Screenshot 2025-05-05 130446" src="https//github.com/user-attachments/assets/8e8b9c1f-f777-4e5a-b54c-9f0526d78cd2" />
 
